@@ -1,6 +1,7 @@
-# PCC Admin
+# Peak Climbing Club Adming
 
-Administration for the [Peak Climbing Club][pcc]
+This site documents various how to undertake various adminstrative tasks for the [Peak Climbing Club][pcc]. It is not
+meant as a replacement for the clubs site.
 
 The site is written in [Markdown][markdown] and rendered using [mkdocs.org][mkdocs] on [Codeberg][codeberg] and the pages are
 hosted on [Codeberg Pages][codeberg_pages].
