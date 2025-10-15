@@ -1,0 +1,24 @@
+[build-system]
+requires = [
+  "setuptools>=45",
+  "setuptools_scm[toml]>=6.2",
+  ]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pcc-admin"
+description = "Administrative tasks for the Peak Climbing Club."
+readme = "README.md"
+license = {text = "CC BY-NC-SA 4.0"}
+requires-python = ">=3.10"
+dynamic = ["version"]
+authors = [
+  {name = "Neil Shephard", email = "nshephard@protonmail.com"},
+]
+dependencies = [
+  "mkdocs",
+  "mkdocs-autorefs",
+  "mkdocs-material",
+  "mkdocs-mermaid2-plugin",
+  "pymdown-extensions",
+]

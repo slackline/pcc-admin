@@ -1,0 +1,25 @@
+# Configuration
+config:
+  # MD013 - line-length
+  line_length:
+    line_length: 120
+    code_blocks: false
+    tables: false
+  html:
+    allowed_elements:
+      - div
+      - br
+      - hr
+  # MD028
+  no-blanks-blockquote: false
+
+globs:
+  - "**/*.md"
+
+ignores:
+  - "tmp/**/*.md"
+  - "docs/api/**/*.md"
+  - "TODO.md"
+
+# Fix any fixable errors
+fix: true
