@@ -1,4 +1,3 @@
-
 ---
 site_name: PCC Admin
 site_url: https://slackline.codeberg.page/pcc-admin/
@@ -31,3 +30,22 @@ nav:
   - Home: index.md
   - Meetings: meetings.md
   - Signal: signal.md
+
+plugins:
+  - autorefs
+  - mermaid2
+  - search
+
+markdown_extensions:
+  - pymdownx.blocks.tab
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid

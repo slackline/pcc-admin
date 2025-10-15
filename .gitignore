@@ -1,0 +1,6 @@
+# Python things
+pcc_admin.egg-info/
+
+# Emacs
+*~
+\#*

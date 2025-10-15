@@ -18,6 +18,5 @@ has a video tutorial.
 
 Respondents only need to enter a name and highlight the days that they are able to make.
 
-
 [when2meet]: https://www.when2meet.com
 [about_tutorial]: https://www.when2meet.com/?About
