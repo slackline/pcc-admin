@@ -29,6 +29,7 @@ theme:
 nav:
   - Home: index.md
   - Meetings: meetings.md
+  - Events Calendar: calendar.md
   - Signal: signal.md
 
 plugins:
