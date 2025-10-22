@@ -5,7 +5,7 @@ done at the end of a meeting but if this is skipped a method of surveying member
 
 ## When2meet
 
-[When2meet][when2meet] is a useful, free tool that does not require user registration. The [About][about_tutorial] page
+[When2meet][when2meet] is a useful, free tool that does not require user registration. The [About][when2meet_tutorial] page
 has a video tutorial.
 
 1. Add a title (e.g. `Next PCC Committee`).
@@ -18,5 +18,13 @@ has a video tutorial.
 
 Respondents only need to enter a name and highlight the days that they are able to make.
 
+## WhenIsGood
+
+[WhenIsGood][whenisgood] is another useful, free tool that does not require user registration. The [FAQ][whenisgood_faq]
+describes how to use it. It operates a Freemium model whereby a paid account allows respondents can register three types
+of responses and users with the account can export results to CSV.
+
+[whenisgood]: https://whenisgood.net
+[whenisgood_faq]: https://whenisgood.net/FAQ
 [when2meet]: https://www.when2meet.com
-[about_tutorial]: https://www.when2meet.com/?About
+[when2meet_tutorial]: https://www.when2meet.com/?About
