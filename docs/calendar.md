@@ -15,7 +15,7 @@ flowchart TD
     B --> D(Run PCC script)
     C --> D
     D --> E(Share details with Club Secretary)
-    E --> F(Club Secretary Notifies members of updates and availability)
+    E --> F(Details of schedule included in monthly newsletter)
 ```
 
 ## Ownership
@@ -65,10 +65,10 @@ The columns (aka "Schema") of this sheet is as follows
 ## Google Calendar
 
 [Google Calendar][google_calendar] is used to provide a publicly available calendar which others can subscribe to if
-they have Google account or other Calendar service which allows subscriptions, or a snapshot can be downloaded in
+they have a Google account or other Calendar service which allows subscriptions, or a snapshot can be downloaded in
 [iCal][ical] and imported to their calendar.
 
-There are two calendars
+The two calendars are
 
 - [**PCC Local Meets**][pcc_calendar_local] - for Tuesday/Thursday and venues at the weekend local to Sheffield.
 - [**PCC - Trips & Training**][pcc_calendar_trips] - for weekends away, training events and longer jaunts away climbing.
@@ -76,7 +76,8 @@ There are two calendars
 A third calendar exists **PCC - Test** which was used when developing the workflow and code but is essentially redundant
 now.
 
-Club members can add these calendars to their own using the following [iCal][ical] links.
+Club members can add these calendars to their own using the [iCal][ical] links under the [Using the
+calendar](#using-the-calendar) section.
 
 ## Google Scripts
 
@@ -109,7 +110,7 @@ is required to avoid hitting the API rate limits.
 ## Limitations
 
 At the moment existing events are left in the spreadsheet and the value of the number of events to pull out, which is
-currently `400` can be incremented if required. Ideally this limit should be very high and the code should check to see
+currently `400`, can be increased if required. Ideally this limit should be very high and the code should check to see
 if an event exists and _not_ add it if it does, but as mentioned this is a messy hack. There are two options if the
 number of rows in the Spreadsheets exceeds `400`
 
@@ -129,7 +130,8 @@ These files can be saved (_Right Click > Save Link_) and the imported to a calen
 importing to [Google calendars][google_desktop_impport] and [Proton calendars][proton_desktop_import]. On mobile
 downloading the above links should allow you to import them to your calendar.
 
-After importing you may want to disable notifications for the imported calendar.
+After importing users may want to disable notifications for the imported calendar. How to do this will depend on the
+calendar system used.
 
 [google_calendar]: https://support.google.com/calendar/?hl=en#topic=10509740
 [google_desktop_impport]: https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop

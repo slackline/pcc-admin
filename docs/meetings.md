@@ -1,7 +1,8 @@
 # Meetings
 
-Scheduling meetings of the committee requires surveying when most committee members are able to meet. Typically this is
-done at the end of a meeting but if this is skipped a method of surveying members is required.
+Scheduling meetings of the committee or otherwise requires surveying when most committee members are able to
+meet. Typically the date for next committee meetings is decided at the end of a meeting but it may be deferred in which
+case a [signal poll](../signal#polls).
 
 ## When2meet
 
