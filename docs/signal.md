@@ -34,6 +34,11 @@ members. It is possible to allow both a single or multiple responses to a given 
 If members find the volume of notifications to be too high from a shared, or indeed individual, conversation it is
 possible to [mute notifications][signal_mute_notifications]
 
+## Security
+
+- [Staying safe from Phishing scams and Impersonation][signal_phish]
+
 [signal]: https://signal.com
+[signal_phish]: https://support.signal.org/hc/en-us/articles/9932566320410-Staying-Safe-from-Phishing-Scams-and-Impersonation
 [signal_polls]: https://signal.org/blog/polls/
 [signal_mute_notifications]: https://support.signal.org/hc/en-us/articles/360043273491-In-App-Notification-Options
