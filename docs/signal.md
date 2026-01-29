@@ -29,6 +29,10 @@ phone number already.
 On 2025-11-09 Signal [introduced polls][signal_polls] which make it straight-forward to conduct a poll of group
 members. It is possible to allow both a single or multiple responses to a given poll.
 
+## Pinned Messages
+
+Pinned messages which sit at the top of direct messages or group chats are supported as of [2026-01-29][signal_pins].
+
 ## Notifications
 
 If members find the volume of notifications to be too high from a shared, or indeed individual, conversation it is
@@ -40,5 +44,6 @@ possible to [mute notifications][signal_mute_notifications]
 
 [signal]: https://signal.com
 [signal_phish]: https://support.signal.org/hc/en-us/articles/9932566320410-Staying-Safe-from-Phishing-Scams-and-Impersonation
+[signal_pins]: https://signal.org/blog/pinned-messages/
 [signal_polls]: https://signal.org/blog/polls/
 [signal_mute_notifications]: https://support.signal.org/hc/en-us/articles/360043273491-In-App-Notification-Options
