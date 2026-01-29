@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/bmc/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/calendar/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/insurance/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/logos/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/meetings/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/members/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+         <loc>https://slackline.codeberg.page/pcc-admin/signal/</loc>
+         <lastmod>2026-01-29</lastmod>
+    </url>
+</urlset>
