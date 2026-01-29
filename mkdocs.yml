@@ -28,10 +28,13 @@ theme:
         name: Switch to system preference
 nav:
   - Home: index.md
-  - Meetings: meetings.md
+  - BMC: bmc.md
   - Events Calendar: calendar.md
-  - Signal: signal.md
+  - Insurance: insurance.md
   - Logos: logos.md
+  - Meetings: meetings.md
+  - Members: members.md
+  - Signal: signal.md
 
 plugins:
   - autorefs
